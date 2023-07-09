@@ -1,4 +1,4 @@
-package LamdaExprssion;
+package LamdaExprssionImpl;
 @FunctionalInterface
 interface i2{
      int getLength(String s);

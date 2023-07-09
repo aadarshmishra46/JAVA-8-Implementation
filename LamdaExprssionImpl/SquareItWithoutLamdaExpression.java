@@ -1,4 +1,4 @@
-package LamdaExprssion;
+package LamdaExprssionImpl;
 interface i4{
     int squareIt(int a);
 

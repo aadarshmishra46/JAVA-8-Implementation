@@ -1,4 +1,4 @@
-package LamdaExprssion;
+package LamdaExprssionImpl;
 interface i{
     public void m1(int a,int b);
 }

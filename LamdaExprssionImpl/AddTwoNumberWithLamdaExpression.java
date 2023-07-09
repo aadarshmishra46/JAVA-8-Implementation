@@ -1,4 +1,4 @@
-package LamdaExprssion;
+package LamdaExprssionImpl;
 @FunctionalInterface
 interface i1{
     public void m1(int a,int b);

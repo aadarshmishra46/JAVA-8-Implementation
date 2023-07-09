@@ -1,4 +1,4 @@
-package LamdaExprssion;
+package LamdaExprssionImpl;
 class MyThread implements Runnable{
 
     @Override

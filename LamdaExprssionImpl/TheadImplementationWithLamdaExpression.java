@@ -1,4 +1,4 @@
-package LamdaExprssion;
+package LamdaExprssionImpl;
 
 public class TheadImplementationWithLamdaExpression {
     public static void main(String[] args) {
